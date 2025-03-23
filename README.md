@@ -7,15 +7,13 @@ This project provides a Streamlit-based interface for extracting and analyzing n
 # Project Structure:
 
         news-summarization/
-        │
 
-		├── models               # put your models here
+	    ├── models               # put your models here
 
         ├── app.py               # Streamlit application interface for user interaction
         
-        ├── api.py             # Core functionality for extracting, analyzing, summarizing news  
-                                                                                                                                   articles                                               
-        
+        ├── api.py             # Core functionality for extracting, analyzing, summarizing news  articles
+
         ├── utils.py             # Utility functions for saving reports and handling file operations
         
         ├── environment.yml      # Conda environment configuration for dependencies
@@ -52,8 +50,7 @@ Replace your_environment_name with the actual environment name specified in
 Once you have downloaded the model, place it  into the models directory like below
 
     └── models/
-
-    ├── bart-large-cnn
+    	├── bart-large-cnn
 
 
 Use that models directory path to load the model
