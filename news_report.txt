@@ -1,0 +1,12 @@
+Title: Meta stops ex-director from promoting critical memoir
+Summary: Sarah Wynn-Williams says she watched Facebook grow from "a front row seat" Meta has won an emergency ruling in the US to temporarily stop a former director of Facebook from promoting or further distributing copies of her memoir. The book, Careless People by Sarah Wynn-Williams, who used to be the company's global public policy director, includes a series of critical claims about what she witnessed during her seven years working at Facebook.
+URL: https://www.bbc.co.uk/news/articles/cq5zyq0250wo
+Date and Time: 2025-03-13T15:11:53.961Z
+Sentiment: Negative
+--------------------------------------------------------------------------------
+Title: Meta plans globe-spanning sub-sea internet cable
+Summary: Meta has announced plans to build a 50,000km (31,000 mile) sub-sea cable across the world. The tech giant said Project Waterworth - connecting the US, India, South Africa, Brazil and other regions - will be the world's longest underwater cable project when completed. Meta, which owns Facebook, Instagram and WhatsApp, has sought to extend its presence in technology beyond social media, including in artificial intelligence (AI) and the infrastructure that supports it.
+URL: https://www.bbc.co.uk/news/articles/ckgrgz8271go
+Date and Time: 2025-02-17T14:47:23.885Z
+Sentiment: Positive
+--------------------------------------------------------------------------------
